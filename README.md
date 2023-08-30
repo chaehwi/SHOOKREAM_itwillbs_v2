@@ -9,7 +9,7 @@
 <div>
 <h3>개요</h3>
 <ul>
-  <li>프로젝트 이름 : <b>SHOOKREAM 슈크림</b> 운동화 쇼핑몰 웹사이트 </li>
+  <li>프로젝트 이름 : <b>SHOOKREAM 슈크림</b> (운동화 쇼핑몰 웹사이트) </li>
   <li>프로젝트 지속기간 : 2022.12-2023.01 (4주)</li>
   <li>개발 언어 및 스킬 : <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/> </li>
   <li>오픈 소스 및 라이브러리 : bootstrap, JQuery, slick-slider, 채널톡 API, kakao주소 API </li>
