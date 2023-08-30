@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BEEFFF&height=150&section=header" />
 
 <div>
 <h2>아이티윌부산교육센터 1차 프로젝트</h2>
@@ -44,7 +44,7 @@
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BEEFFF&height=150&section=footer" />
 
 
 
